@@ -1,1 +1,1 @@
-# c-program-for-simple-calculator-
+# c-program-
